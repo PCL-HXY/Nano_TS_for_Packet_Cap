@@ -1,3 +1,5 @@
+$$
+\begin{aligned}
 This is the source code of DPDK driver for paper "Hardware Nanosecond-Precision Timestamping for Line-Rate Packet Capture".
 
 ## ABSTRACT
@@ -11,3 +13,5 @@ problem. We also develop a DPDK driver for FPGA devices to make our design compa
 method performs timestamping at line-rate for 10 Gigabit Ethernet traffic at 4 ns precision and 1 ns precision for 25 Gigabit, 
 which greatly improves the accuracy of security incident retro-spective analysis. Furthermore, the design can capture full-size 
 packets for any protocol with zero packet loss and can be applied to 40/100 Gigabit systems as well.
+\end{aligned}
+$$
